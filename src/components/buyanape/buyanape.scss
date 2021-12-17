@@ -1,0 +1,35 @@
+#buy-an-ape {
+    background-color: #bfc500;
+}
+
+.buy-ape-title {
+    color: black;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 800;
+    font-style: italic;
+}
+
+
+.bayc-btn {
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    background-color: black;
+    color: #bfc500;
+    font-weight: 600;
+    text-align: center;
+    font-size: 16px;
+    padding: 5%;
+    margin: auto auto;
+    transition: .3s;
+}
+
+.bayc-btn:hover {
+    color: #000;
+    background-color: #fff;
+}
+
+.common-p-black {
+    color: black;
+}
